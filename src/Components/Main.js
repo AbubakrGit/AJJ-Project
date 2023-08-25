@@ -30,11 +30,11 @@ function Main() {
         <article>
             <div className="container">
                 <div className="row">
-                    <h3 className='animate__animated animate__slideInLeft '>Управляйте вашим здоровьем <span><a href="#!">с тестами Атлас</a></span></h3>
+                    <h3>Управляйте вашим здоровьем <span><a href="#!">с тестами Атлас</a></span></h3>
 
                     
                     <div className="scrollll">
-                    <div className="col-3 animate__animated wow animate__rollIn animate__delay-2s ">
+                    <div className="col-3">
                         <div className="card" id='cardik'>
                             <div className="card-body">
                                 <div className="top">
@@ -55,7 +55,7 @@ function Main() {
                         </div>
                     </div> 
 
-                        <div className="col-3 animate__animated wow animate__rollIn animate__delay-3s">
+                        <div className="col-3">
                             <div className="card card__1">
                                 <div className="card-body">
                                     <div className="top">
@@ -75,7 +75,7 @@ function Main() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-3 animate__animated wow animate__rollIn animate__delay-4s">
+                        <div className="col-3">
                             <div className="card card__2">
                                 <div className="card-body">
                                     <div className="top">
@@ -95,7 +95,7 @@ function Main() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-3 animate__animated wow animate__rollIn animate__delay-5s">
+                        <div className="col-3">
                             <div className="card card__3">
                                 <div className="card-body">
                                     <div className="top">
@@ -121,7 +121,7 @@ function Main() {
         </article>
         <main>
             <div className="container" >
-                <div className="row animate__animated wow animate__bounceInLeft animate__slow" >
+                <div className="row" >
 
 
                     
@@ -1170,7 +1170,7 @@ function Main() {
                     
         </SwiperSlide>
 
-        <div className="col-9 animate__animated animate__bounce wow animate__delay-5s animate__repeat-2">
+        <div className="col-9">
                 <div class="uk-inline">
                         <button class="uk-button uk-button-default" type="button">Показать ещё</button>
                         <div class="uk-card uk-card-body uk-card-default" uk-drop="mode: click">Что бы узнать больше информации, нажмите кнопки с цифрами ниже.</div>
